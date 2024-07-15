@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "crud-todolist",
+  "version": "1.0.0",
+  "description": "1. **Sign Up or Log In**: Go to [replit.com](https://replit.com/) and sign up for an account or log in if you already have one.\r 2. **Create a New Repl**: Click on the \"Create\" button and select \"Node.js\" as the template for your new project.\r 3. **Name Your Project**: Give your project a name, such as \"todo-list-app\", and then click \"Create Repl\".\r 4. **Initialize the Project**: Once the project is created, you will see an online code editor where you can start writing your Node.js code.\r 5. **Install Dependencies**: In the shell at the bottom of the screen, install the `prompt-sync` package by running.",
+  "main": "todolist.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

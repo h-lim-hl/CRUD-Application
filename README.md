@@ -324,7 +324,6 @@ function deleteTask(todos, id) {
     console.log("Task is not found");
   }
 }
-
 ```
 ---
 ## Part 3: Integrating the Model and the Interface
