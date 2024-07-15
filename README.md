@@ -1,5 +1,4 @@
-# CRUD-Application
-* lab-work: to-do list app
+# CRUD App-ToDoList
 
 ## Setup Steps for Replit
 1. **Sign Up or Log In**: Go to [replit.com](https://replit.com/) and sign up for an account or log in if you already have one.
