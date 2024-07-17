@@ -26,6 +26,7 @@ function modifyTask(todos, id, newTaskName, newUrgency) {
     }
     if (task) {
         task.name = newTaskName;
+        task.urgency = newUrgency;
     } else {
         console.log("Task is not found");
     }
